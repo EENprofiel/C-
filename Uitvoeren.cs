@@ -9,7 +9,11 @@
             //Opdracht3.Execute();
             //Opdracht4.Execute();
             // Opdracht5.Execute();
-            Opdracht6.Execute();
+            // Opdracht6.Execute();
+            // Opdracht7.Execute();
+            // Opdracht8.Execute();
+            // Opdracht9.Execute();
+            Opdracht10.Execute();
         }
     }
 }

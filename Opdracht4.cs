@@ -33,12 +33,10 @@
                 {
                     Console.WriteLine("Ongeldige invoer. Voer een geldig getal in.");
                 }
-
-            } while (userInput < min || userInput > max); // Ga door de lus zolang de invoer buiten het geldige bereik ligt
+            } while
+                (userInput < min || userInput > max); // Ga door de lus zolang de invoer buiten het geldige bereik ligt
 
             Console.WriteLine("Bedankt voor de juiste invoer!");
         }
     }
-
 }
-

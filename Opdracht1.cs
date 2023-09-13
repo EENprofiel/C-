@@ -34,7 +34,8 @@
                         Console.WriteLine("Uitstekend"); // Toon "Uitstekend" voor 9
                         break;
                     default:
-                        Console.WriteLine("Getal zit buiten het bereik van dit programma"); // Toon een bericht als het getal buiten het bereik ligt
+                        Console.WriteLine(
+                            "Getal zit buiten het bereik van dit programma"); // Toon een bericht als het getal buiten het bereik ligt
                         break;
                 }
             }
